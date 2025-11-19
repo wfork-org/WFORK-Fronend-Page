@@ -62,7 +62,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .
-git commit -m "README.md updated2"
+git commit -m "README.md updated 3"
 git push
  
 

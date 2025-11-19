@@ -44,7 +44,10 @@ Fork → branch → commit feat/fix
   <summary>DEV Log</summary>
 
 
-- [ ] v0.0.10 - создать нижнию панель с ссылкой на телеграм группу 
+- [ ] v0.0.13 - создать нижнию панель с ссылкой на телеграм группу 
+- [ ] v0.0.12 - создать n8n flow для wfork-frontend docker rebuild
+- [x] v0.0.11 - added .git\workflows\deploy_n8n.yml fot auto deploy 
+- [x] v0.0.10 - added .gitignore  
 - [x] v0.0.9 - добавленно локальное видео 
 - [x] v0.0.8 - добавлен ссылка к сайту в README.md 
 - [x] v0.0.7 - добавлен screenshot в README.md
@@ -62,7 +65,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .  
-git commit -m "v0.0.9 - добавленно локальное видео"  
+git commit -m "v0.0.11 - added .git\workflows\deploy_n8n.yml fot auto deploy"  
 git push
 
 

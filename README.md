@@ -7,13 +7,13 @@
 
 <p align="center">
   <!-- GitHub badges -->
-  <a href="https://github.com/israice/WFORK-Fronend-Page/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/israice/WFORK-Fronend-Page?style=for-the-badge&logo=github" />
+  <a href="https://github.com/wfork-org/WFORK-Fronend-Page/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/wfork-org/WFORK-Fronend-Page?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/israice/WFORK-Fronend-Page/forks">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/israice/WFORK-Fronend-Page?style=for-the-badge&logo=github" />
+  <a href="https://github.com/wfork-org/WFORK-Fronend-Page/forks">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/wfork-org/WFORK-Fronend-Page?style=for-the-badge&logo=github" />
   </a>
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/israice/WFORK-Fronend-Page?style=for-the-badge" />
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/wfork-org/WFORK-Fronend-Page?style=for-the-badge" />
 </p>
 
 <br/>
@@ -31,7 +31,8 @@ Fork → branch → commit feat/fix
   <summary>DEV Log</summary>
 
 
-- [ ] v0.0.6 - создать нижнию панель с ссылкой на телеграм группу 
+- [ ] v0.0.7 - создать нижнию панель с ссылкой на телеграм группу 
+- [x] v0.0.6 - исправлены ссылки в шамке md 
 - [x] v0.0.5 - добавлен логотип 
 - [x] v0.0.4 - добавлена кнопка User Timer
 - [x] v0.0.3 - добавлена кнопка wiki
@@ -45,7 +46,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .  
-git commit -m "v0.0.5 - добавлен логотип"  
+git commit -m "v0.0.6 - исправлены ссылки в шамке md"  
 git push
 
 

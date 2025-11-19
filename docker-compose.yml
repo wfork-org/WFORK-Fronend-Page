@@ -1,0 +1,15 @@
+
+services:
+  web:
+    build: .
+    container_name: wfork-frontend
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    networks:
+      - pc2-net
+
+networks:
+  pc2-net:
+    external: true
+    name: pc2-net

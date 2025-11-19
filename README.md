@@ -62,7 +62,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .  
-git commit -m "v0.0.12 - github webhook activated "  
+git commit -m "get changed to post request"  
 git push
 
 

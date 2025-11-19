@@ -16,20 +16,16 @@
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/wfork-org/WFORK-Fronend-Page?style=for-the-badge" />
 </p>
 
-<br/>
+
 ## 🚀 Live Website
 
 > **Try it instantly:**  
 > https://weforks.org/
 
-<br/>
-
 ## 📸 Preview
 <p align="center">
   <img src="screenshot.png" alt="WFORK-Fronend-Page">
 </p>
-
-<br/>
 
 
 ## ⚙️ RUN
@@ -65,7 +61,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .  
-git commit -m "v0.0.11 - added .git\workflows\deploy_n8n.yml fot auto deploy"  
+git commit -m "README.md update"  
 git push
 
 

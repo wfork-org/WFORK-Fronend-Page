@@ -1,11 +1,12 @@
 # Базовый образ — Nginx
 FROM nginx:alpine
 
-# Удалим стандартную страницу nginx
+# Удаляем стандартную страницу nginx
 RUN rm -rf /usr/share/nginx/html/*
 
-# Копируем наш сайт в директорию Nginx
+# Копируем HTML и видео в корень веб-контента
 COPY index.html /usr/share/nginx/html/
+COPY video.mp4 /usr/share/nginx/html/
 
-# Контейнер будет слушать порт 80
+# Контейнер слушает порт 80
 EXPOSE 80

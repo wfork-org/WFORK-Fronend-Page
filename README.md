@@ -61,8 +61,8 @@ Fork → branch → commit feat/fix
 
 ## Update repository
 
-git add .  
-git commit -m "get changed to post request"  
+git add .
+git commit -m "README.md updated"
 git push
 
 

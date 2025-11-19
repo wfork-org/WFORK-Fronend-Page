@@ -45,7 +45,7 @@ Fork → branch → commit feat/fix
 
 
 - [ ] v0.0.10 - создать нижнию панель с ссылкой на телеграм группу 
-- [ ] v0.0.9 - исправить видео ролик, надо захостить прямой доступ к видео 
+- [x] v0.0.9 - добавленно локальное видео 
 - [x] v0.0.8 - добавлен ссылка к сайту в README.md 
 - [x] v0.0.7 - добавлен screenshot в README.md
 - [x] v0.0.6 - исправлены ссылки в шамке md
@@ -62,7 +62,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .  
-git commit -m "v0.0.8 - добавлен ссылка к сайту в README.md"  
+git commit -m "v0.0.9 - добавленно локальное видео"  
 git push
 
 

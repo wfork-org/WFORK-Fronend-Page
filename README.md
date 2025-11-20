@@ -66,6 +66,7 @@ git add .
 git commit -m "v0.0.14 - добавленн n8n flow для wfork-frontend docker rebuild"
 git push
  
+. 
 
 </details>
 

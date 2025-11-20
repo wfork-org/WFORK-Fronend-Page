@@ -40,8 +40,9 @@ Fork → branch → commit feat/fix
   <summary>DEV Log</summary>
 
 
-- [ ] v0.0.14 - создать нижнию панель с ссылкой на телеграм группу 
-- [ ] v0.0.13 - создать n8n flow для wfork-frontend docker rebuild
+- [ ] v0.0.15 - создать нижнию панель с ссылкой на телеграм группу 
+- [x] v0.0.14 - добавленн n8n flow для wfork-frontend docker rebuild
+- [x] v0.0.13 - добавленна ссылка в логотип 
 - [x] v0.0.12 - github webhook activated 
 - [x] v0.0.11 - added .git\workflows\deploy_n8n.yml fot auto deploy 
 - [x] v0.0.10 - added .gitignore  
@@ -62,7 +63,7 @@ Fork → branch → commit feat/fix
 ## Update repository
 
 git add .
-git commit -m "README.md updated 3"
+git commit -m "v0.0.14 - добавленн n8n flow для wfork-frontend docker rebuild"
 git push
  
 
